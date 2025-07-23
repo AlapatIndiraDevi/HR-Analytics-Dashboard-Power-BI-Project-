@@ -50,7 +50,8 @@ This Power BI dashboard offers a comprehensive analysis of HR data with a focus 
 ---
 
 ## 📷 Screenshots
-*(Optional: Add image previews of the dashboard here)*
+<img width="1327" height="739" alt="image" src="https://github.com/user-attachments/assets/8fd7a1f4-2e87-44b4-9ae9-0fbccd4fab5e" />
+
 
 ---
 
